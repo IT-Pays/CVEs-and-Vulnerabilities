@@ -27,4 +27,4 @@ The issue arises due to broken access control on the ID parameter, allowing an a
 1. Modify the id parameter value to that of another patient to delete their account permanently
 
 
-**PoC Video** https://drive.google.com/file/d/1Ce0Zz8ON5AqgP1FBxdhumMJAjOSYcXgZ/view
+**PoC Video** https://drive.google.com/file/d/1yFo0re8taTry7oR4-EDg3UHwO2lkqO9N/view
