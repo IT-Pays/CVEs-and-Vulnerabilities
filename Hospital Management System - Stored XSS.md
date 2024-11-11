@@ -49,3 +49,5 @@ User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115
 ...
 
 The server returns the doctor's information, and the XSS payload in the name field is executed in the admin's browser, leading to the alert being triggered.
+
+PoC - Video: https://drive.google.com/file/d/1Omjwoh6B2xh41c3Av0_VJsoR7tascb1_/view?usp=sharing
