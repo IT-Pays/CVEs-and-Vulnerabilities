@@ -1,4 +1,4 @@
-Exploit Title: Hospital Management System - Stored XSS
+Exploit Title: CVE-2024-11073 Hospital Management System - Stored XSS
 
 Application: Hospital Management System
 
